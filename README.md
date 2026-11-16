@@ -1,8 +1,8 @@
 # BOStHeikenAshi
 
-Break-of-Structure trading toolkit built on Heiken-Ashi candles — an Expert Advisor plus its companion indicator.
+Trading robot and indicator for MetaTrader 5 that trade breaks of structure on Heiken Ashi candles, with swing-based trailing stops.
 
-> **Proprietary software** — © Teenodi Ltd. All rights reserved. Private repository; not for distribution. See [LICENSE](LICENSE).
+> **Proprietary software.** © Teenodi Ltd. All rights reserved. The code is shared for viewing only. It is not licensed for reuse or redistribution. See [LICENSE](LICENSE).
 
 ## BOStHeiken_Ashi_EA.mq5
 
@@ -42,6 +42,10 @@ Break-of-Structure trading toolkit built on Heiken-Ashi candles — an Expert Ad
 2. In MetaEditor, open the file and compile (**F7**).
 3. Attach the compiled program to a chart from the terminal Navigator.
 
+## Risk note
+
+Trading carries risk. This code shows how the strategy is built. It is not financial advice.
+
 ## License
 
-Proprietary and confidential. © Teenodi Ltd. All rights reserved. See [LICENSE](LICENSE).
+Proprietary. © Teenodi Ltd. All rights reserved. The code is shared for viewing only. See [LICENSE](LICENSE).
